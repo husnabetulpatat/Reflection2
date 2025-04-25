@@ -1,0 +1,16 @@
+C:\Users\husna\source\repos\OdemeSistemi\OdemeSistemi\bin\Debug\net8.0-windows\OdemeSistemi.exe
+C:\Users\husna\source\repos\OdemeSistemi\OdemeSistemi\bin\Debug\net8.0-windows\OdemeSistemi.deps.json
+C:\Users\husna\source\repos\OdemeSistemi\OdemeSistemi\bin\Debug\net8.0-windows\OdemeSistemi.runtimeconfig.json
+C:\Users\husna\source\repos\OdemeSistemi\OdemeSistemi\bin\Debug\net8.0-windows\OdemeSistemi.dll
+C:\Users\husna\source\repos\OdemeSistemi\OdemeSistemi\bin\Debug\net8.0-windows\OdemeSistemi.pdb
+C:\Users\husna\source\repos\OdemeSistemi\OdemeSistemi\obj\Debug\net8.0-windows\OdemeSistemi.Form1.resources
+C:\Users\husna\source\repos\OdemeSistemi\OdemeSistemi\obj\Debug\net8.0-windows\OdemeSistemi.csproj.GenerateResource.cache
+C:\Users\husna\source\repos\OdemeSistemi\OdemeSistemi\obj\Debug\net8.0-windows\OdemeSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husna\source\repos\OdemeSistemi\OdemeSistemi\obj\Debug\net8.0-windows\OdemeSistemi.AssemblyInfoInputs.cache
+C:\Users\husna\source\repos\OdemeSistemi\OdemeSistemi\obj\Debug\net8.0-windows\OdemeSistemi.AssemblyInfo.cs
+C:\Users\husna\source\repos\OdemeSistemi\OdemeSistemi\obj\Debug\net8.0-windows\OdemeSistemi.csproj.CoreCompileInputs.cache
+C:\Users\husna\source\repos\OdemeSistemi\OdemeSistemi\obj\Debug\net8.0-windows\OdemeSistemi.dll
+C:\Users\husna\source\repos\OdemeSistemi\OdemeSistemi\obj\Debug\net8.0-windows\refint\OdemeSistemi.dll
+C:\Users\husna\source\repos\OdemeSistemi\OdemeSistemi\obj\Debug\net8.0-windows\OdemeSistemi.pdb
+C:\Users\husna\source\repos\OdemeSistemi\OdemeSistemi\obj\Debug\net8.0-windows\OdemeSistemi.genruntimeconfig.cache
+C:\Users\husna\source\repos\OdemeSistemi\OdemeSistemi\obj\Debug\net8.0-windows\ref\OdemeSistemi.dll
